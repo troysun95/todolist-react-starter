@@ -25,11 +25,10 @@
 
    ```
 
-   npm start
+   npm run start
    ```
 
-5.於瀏覽器畫面輸入以下網址，前往 待辦事項頁面。
-http://localhost:3000/todo
+5.於瀏覽器畫面輸入以下網址(http://localhost:3000/todo)，前往 待辦事項頁面。
 
 6. 若欲停止伺服器，於終端機輸入
 
