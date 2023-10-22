@@ -25,10 +25,11 @@
 
    ```
 
-   npm run start
+   npm start
    ```
 
-5.於瀏覽器畫面輸入以下網址(http://localhost:3000/todo)，前往 待辦事項頁面。
+5.於瀏覽器畫面輸入以下網址，前往 待辦事項頁面。
+http://localhost:3000/todo
 
 6. 若欲停止伺服器，於終端機輸入
 
@@ -41,4 +42,5 @@
 - React @ 18.2.0
 - clsx @ 1.2.1
 - styled-components @ 5.3.5
+
 # todolist-react-starter
