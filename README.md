@@ -41,3 +41,4 @@
 - React @ 18.2.0
 - clsx @ 1.2.1
 - styled-components @ 5.3.5
+# todolist-react-starter
