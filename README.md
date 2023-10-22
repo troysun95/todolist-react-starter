@@ -1,4 +1,6 @@
-# A8:Todo List
+# A8:Todo 
+<img width="1294" alt="screenshot_TodoLisr_TodoPage" src="https://github.com/troysun95/todolist-react-starter/assets/120295129/86c15dae-f3ff-4e2a-aecc-f51d5dc9a98f">
+List
 
 ## 介紹
 
@@ -25,7 +27,7 @@
 
    ```
 
-   npm run start
+   npm start
    ```
 
 5.於瀏覽器畫面輸入以下網址，前往 待辦事項頁面。
